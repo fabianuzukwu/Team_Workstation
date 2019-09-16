@@ -291,8 +291,7 @@ figure {
 .signup-image-link {
   font-size: 14px;
   color: #222;
-  display: block;
-  text-align: center; }
+   }
 
 .term-service {
   font-size: 13px;
@@ -330,7 +329,7 @@ input {
   input:-moz-placeholder {
     color: #999; }
   input:focus {
-    border-bottom: 1px solid #222; }
+    border-bottom: 2px solid #5a22db;; }
     input:focus::-webkit-input-placeholder {
       color: #222; }
     input:focus::-moz-placeholder {
